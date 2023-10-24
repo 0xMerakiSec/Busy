@@ -10,6 +10,6 @@ while(flag):   #loops the input method.
         flag=0  # if the input is "no" set's flag is equal to 0 so it exit's the loop.
 
 
-        
+print("Thank you, have a nice day!")       
 
 
